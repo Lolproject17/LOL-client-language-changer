@@ -1,0 +1,22 @@
+C:\Users\Ultimate\Desktop\LOL\LOL\bin\Debug\LOL.exe.config
+C:\Users\Ultimate\Desktop\LOL\LOL\bin\Debug\LOL.exe
+C:\Users\Ultimate\Desktop\LOL\LOL\bin\Debug\LOL.pdb
+C:\Users\Ultimate\Desktop\LOL\LOL\bin\Debug\LOL.xml
+C:\Users\Ultimate\Desktop\LOL\LOL\obj\Debug\LOL.vbprojResolveAssemblyReference.cache
+C:\Users\Ultimate\Desktop\LOL\LOL\obj\Debug\LOL.Form1.resources
+C:\Users\Ultimate\Desktop\LOL\LOL\obj\Debug\LOL.Resources.resources
+C:\Users\Ultimate\Desktop\LOL\LOL\obj\Debug\LOL.vbproj.GenerateResource.Cache
+C:\Users\Ultimate\Desktop\LOL\LOL\obj\Debug\LOL.exe
+C:\Users\Ultimate\Desktop\LOL\LOL\obj\Debug\LOL.xml
+C:\Users\Ultimate\Desktop\LOL\LOL\obj\Debug\LOL.pdb
+C:\Users\Ultimate\Desktop\LOL client lang and region changer\LOL\bin\Debug\LOL.exe.config
+C:\Users\Ultimate\Desktop\LOL client lang and region changer\LOL\obj\Debug\LOL.exe
+C:\Users\Ultimate\Desktop\LOL client lang and region changer\LOL\obj\Debug\LOL.xml
+C:\Users\Ultimate\Desktop\LOL client lang and region changer\LOL\obj\Debug\LOL.pdb
+C:\Users\Ultimate\Desktop\LOL client lang and region changer\LOL\bin\Debug\LOL.exe
+C:\Users\Ultimate\Desktop\LOL client lang and region changer\LOL\bin\Debug\LOL.pdb
+C:\Users\Ultimate\Desktop\LOL client lang and region changer\LOL\bin\Debug\LOL.xml
+C:\Users\Ultimate\Desktop\LOL client lang and region changer\LOL\obj\Debug\LOL.vbprojResolveAssemblyReference.cache
+C:\Users\Ultimate\Desktop\LOL client lang and region changer\LOL\obj\Debug\LOL.Form1.resources
+C:\Users\Ultimate\Desktop\LOL client lang and region changer\LOL\obj\Debug\LOL.Resources.resources
+C:\Users\Ultimate\Desktop\LOL client lang and region changer\LOL\obj\Debug\LOL.vbproj.GenerateResource.Cache
